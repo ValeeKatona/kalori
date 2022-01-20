@@ -30,11 +30,11 @@ public class App {
         switch (choice) {
             case 1:
                 {
-                calculateMan();
+                calculateWoman();
                 break;}
             case 2:
                 {
-                calculateWoman();
+                calculateMan();
                 break;}
             default:
                 System.out.println("Not correct number!");
