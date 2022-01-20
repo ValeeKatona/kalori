@@ -1,0 +1,16 @@
+/*
+* File: settings.json
+* Author: Katona Valentin
+* Copyright: 2022, Katona Valentin
+* Group: Szoft II/N
+* Date: 2022-01-20
+* Github: https://github.com/djvalee/
+* Licenc: GNU GPL
+*/
+{
+    "java.project.sourcePaths": ["src", "test"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
